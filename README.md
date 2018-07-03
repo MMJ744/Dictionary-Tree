@@ -12,7 +12,7 @@
   <div class="stackedit__html"><p>**</p>
 <h2 id="dictionary-tree-assignment---matthew-jones">Dictionary Tree Assignment - Matthew Jones</h2>
 <p>**</p>
-<p> link to repositry https://git.cs.bham.ac.uk/mmj744/DictionaryTree </p>
+<p> Note that this was origionally done in gitlab and is simply coppied across so only the latest version is here. </p>
 <p>Explanation of each method:</p>
 <ul>
 <li>
